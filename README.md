@@ -1,4 +1,4 @@
--# Hi There👋
+# Hi There👋
 
 - 👋 Hi, I’m @Simanto-xroy
 - 👀 I’m interested in javascript
